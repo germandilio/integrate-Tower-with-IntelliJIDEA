@@ -1,0 +1,14 @@
+{
+    "DisplayName":           "IntelliJ IDEA",
+    "MinimumVersion":        "",
+    "SupportsDiffChangeset": true,
+    "SupportsDirectoryDiff": true,
+    "DiffToolArguments":     "diff \"$LOCAL\" \"$REMOTE\"",
+    "MergeToolArguments":    "merge \"$LOCAL\" \"$BASE\" \"$REMOTE\" \"$MERGED\"",
+    "ApplicationRegistryIdentifiers": [
+        ""
+    ],
+    "ApplicationPaths": [
+        "%ProgramW6432%\\JetBrains\\IntelliJ IDEA 2021.3\\bin\\idea64.exe",
+    ]
+}
